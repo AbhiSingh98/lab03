@@ -29,12 +29,12 @@ private int status;
 ```
 public Student(String name)
 ```
-student
+Student
 ## How many parameters does the following constructor have, and what are their types?
 ```
 public Book(String title, double price)
 ```
-2 parameters( string and double)
+2 parameters( String and Double)
 ## Can you guess what types some of the `Book` class’s fields might be, from the parameters in its constructor? Can you assume anything about the names of its fields?
 It is creating the book price and title.
 
